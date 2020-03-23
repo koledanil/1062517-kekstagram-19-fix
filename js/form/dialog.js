@@ -1,7 +1,7 @@
 'use strict';
 // открыти и закрытие окна
 (function () {
-  var dialogBox = document.querySelector('.img-upload__overlay');
+  var dialogBox = window.selector.dialogBox;
   var effectPreview = document.querySelectorAll('.effects__radio');
 
   var showDialog = function () {
