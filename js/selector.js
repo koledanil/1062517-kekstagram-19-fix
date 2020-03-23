@@ -15,6 +15,7 @@
     tagErrPlaceUl: document.querySelector('#tag-error'),
     sliderTag: document.querySelector('.img-upload__effect-level'),
     uploadBtn: document.querySelector('#upload-select-image'),
+    dialogBox: document.querySelector('.img-upload__overlay'),
 
     submitBtn: document.querySelector('#upload-submit'),
     effectRadio: document.querySelectorAll('.rd'),
